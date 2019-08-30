@@ -1,0 +1,25 @@
+header {
+  height: 60px;
+  background: #4a90e2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 42px;
+  color: #fff;
+  min-width: 980px;
+  font-size: 14px;
+}
+
+header > div {
+  display: flex;
+  align-items: center;
+}
+
+header > div span {
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header > div i {
+  margin-left: 10px;
+}
