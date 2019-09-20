@@ -2,8 +2,6 @@
 
 This is for React study purpose. To get this, I followed an [layout hosted on Figma](https://www.figma.com/file/U3UNBAN3NT47xZ3OyLgmjM/layout?node-id=0%3A2).
 
-This challenge is from Rocketseat's bootcamp, where I learn a stack called by them: OmniStack, using the following technologies NodeJS (backend), ReactJS (frontend) and React Native (mobile). Full JS <3
-
 ![FacebookTimeline](src/assets/final-result.png)
 
 ### Installing
